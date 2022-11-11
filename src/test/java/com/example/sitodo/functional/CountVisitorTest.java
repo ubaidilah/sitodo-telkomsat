@@ -37,6 +37,7 @@ public class CountVisitorTest extends BaseFunctionalTest {
     void singleVisit_toTodoList() throws InterruptedException {
         // TODO: Implementasi test sesungguhnya.
         // Minta browser (via Selenium) agar membuka URL berikut: “/”
+        
         open("/");
         // Pause program test selama 500 milisekon untuk
         // memberikan kesempatan kepada browser untuk membuka
